@@ -1,0 +1,3 @@
+com\mycompany\crudprodutos\dao\ProdutoDAO.class
+com\mycompany\crudprodutos\controller\ControladorServlet.class
+com\mycompany\crudprodutos\model\Produto.class
